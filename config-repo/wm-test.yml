@@ -25,7 +25,7 @@ mybatis:
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://centertest.39.net:8084/eureka
+      defaultZone: http://mac.39.net:8084/eureka
 
 # 设置熔断超时时间
 #  hystrix.command.default.execution.isolation.thread.timeoutInMilliseconds=10000
